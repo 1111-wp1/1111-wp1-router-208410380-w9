@@ -1,8 +1,8 @@
-const About_80 = () => {
+const AboutPage_80 = () => {
   return (
     <section className='section'>
-      <h2>About</h2>
+      <h2>About Page</h2>
     </section>
   );
 };
-export default About_80;
+export default AboutPage_80;
