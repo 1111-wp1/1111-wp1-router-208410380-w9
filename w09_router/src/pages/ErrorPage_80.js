@@ -1,0 +1,8 @@
+const Error_80 = () => {
+  return (
+    <section className='section'>
+      <h2>Error</h2>
+    </section>
+  );
+};
+export default Error_80;
